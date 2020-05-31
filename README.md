@@ -1,4 +1,5 @@
-# fix_resolution
+# fix_resolution 
+Missing Full HD Resolution in virtual-box
 
 [daniel@manjaro-xfce ~]$ **cvt 1920 1080**
 > 1920x1080 59.96 Hz (CVT 2.07M9) hsync: 67.16 kHz; pclk: 173.00 MHz
